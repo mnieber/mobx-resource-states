@@ -1,0 +1,17 @@
+{
+  "name": "mobx-resource-states",
+  "version": "0.1.0",
+  "description": "Track the states (e.g. loading) of any resource",
+  "main": "index.js",
+  "repository": "https://github.com/mnieber/mobx-resource-states.git",
+  "author": "Maarten Nieber",
+  "license": "MIT",
+  "types": "index.d.ts",
+  "prepublish": "tsc",
+  "peerDependencies": {
+    "mobx": "^6.9.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
